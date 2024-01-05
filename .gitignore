@@ -1,7 +1,7 @@
 ### Node template
 .idea
 .DS_Store
-dist
+# dist
 
 # Logs
 logs
@@ -89,7 +89,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# dist
 
 # Gatsby files
 .cache/
